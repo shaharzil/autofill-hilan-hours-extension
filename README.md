@@ -24,4 +24,4 @@ git clone https://github.com/shaharzil/autofill-hilan-hours-extension.git
 
 ## Feedback 📬
 
-If you encounter any issues or have feature suggestions, feel free to contact me (If you don't have my conact info thats you problem).
+If you encounter any issues or have feature suggestions, feel free to contact me (If you don't have my contact info that's your problem).
