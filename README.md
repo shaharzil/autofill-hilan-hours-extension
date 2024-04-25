@@ -4,15 +4,24 @@ This Chrome extension allows users to automatically fill in their standard worki
 
 ## Installation 🛠️
 
+### Using Git
+
 1. Clone the repo:
 
 ```bash
 git clone https://github.com/shaharzil/autofill-hilan-hours-extension.git
 ```
 
-2. Open Chrome and navigate to chrome://extensions/.
-3. Enable `Developer mode` in the top-right corner.
-4. Click `Load unpacked` and select the cloned directory from your computer.
+### Using ZIP Download
+
+1. Click on the Code button and select Download ZIP.
+2. Once downloaded, extract the ZIP file to a known directory on your computer.
+
+### Loading the Extension in Chrome
+
+1. Open Chrome and navigate to chrome://extensions/.
+2. Enable `Developer mode` in the top-right corner.
+3. Click `Load unpacked` and select the cloned directory from your computer.
 
 ## Usage 📖
 
@@ -24,4 +33,4 @@ git clone https://github.com/shaharzil/autofill-hilan-hours-extension.git
 
 ## Feedback 📬
 
-If you encounter any issues or have feature suggestions, feel free to contact me (If you don't have my contact info that's your problem).
+If you encounter any issues or have feature suggestions, feel free to contact me (If you don't have my conact info thats you problem).
